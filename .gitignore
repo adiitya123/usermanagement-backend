@@ -1,0 +1,19 @@
+# Ignore node_modules
+node_modules/
+
+# Ignore environment variables
+.env
+
+# Ignore SQLite database file
+users.db
+
+# Ignore logs
+*.log
+logs/
+
+# Ignore dependency lock files (optional)
+package-lock.json
+yarn.lock
+
+# Ignore VSCode settings (optional)
+.vscode/
